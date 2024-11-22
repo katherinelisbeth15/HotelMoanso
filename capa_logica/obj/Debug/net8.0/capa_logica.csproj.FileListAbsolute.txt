@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_logica.deps.json
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_logica.dll
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_logica.pdb
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_de_datos.dll
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_entidad.dll
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_de_datos.pdb
+C:\Users\Usuario\source\repos\proyecto\capa_logica\bin\Debug\net8.0\capa_entidad.pdb
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_log.145CD70C.Up2Date
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.dll
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\refint\capa_logica.dll
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\capa_logica.pdb
+C:\Users\Usuario\source\repos\proyecto\capa_logica\obj\Debug\net8.0\ref\capa_logica.dll
